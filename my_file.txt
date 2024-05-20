@@ -1,0 +1,5 @@
+This is a file handling assignment
+There were 5 guests at the party
+I know how to handle filesI am appending three more lines to this file
+Practice more by building projects using Python
+Prompt chat GPT to give you projects
